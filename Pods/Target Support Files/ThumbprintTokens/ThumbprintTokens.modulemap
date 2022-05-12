@@ -1,0 +1,6 @@
+framework module ThumbprintTokens {
+  umbrella header "ThumbprintTokens-umbrella.h"
+
+  export *
+  module * { export * }
+}

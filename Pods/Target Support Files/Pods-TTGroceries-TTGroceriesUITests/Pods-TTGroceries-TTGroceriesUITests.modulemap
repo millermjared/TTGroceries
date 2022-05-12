@@ -1,0 +1,6 @@
+framework module Pods_TTGroceries_TTGroceriesUITests {
+  umbrella header "Pods-TTGroceries-TTGroceriesUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

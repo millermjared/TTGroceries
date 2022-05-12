@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		259FE217D885DEE703A5D532 /* Pods_TTGroceriesTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4F11B51D4F58C930EB9CB44B /* Pods_TTGroceriesTests.framework */; };
+		A513C1F2EF0659F43BF4F555 /* Pods_TTGroceries_TTGroceriesUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4F6E5BE0D9402701CC77D4C8 /* Pods_TTGroceries_TTGroceriesUITests.framework */; };
+		B404273D6A020F473375DD7D /* Pods_TTGroceries.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5D6AED890D28B31B4DEE7FD1 /* Pods_TTGroceries.framework */; };
 		C9700846282D63DF001B3289 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9700845282D63DF001B3289 /* AppDelegate.swift */; };
 		C9700848282D63DF001B3289 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9700847282D63DF001B3289 /* SceneDelegate.swift */; };
 		C970084A282D63DF001B3289 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9700849282D63DF001B3289 /* ViewController.swift */; };
@@ -37,6 +40,14 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		34E31DB99A0A7F4A7D1864ED /* Pods-TTGroceries-TTGroceriesUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TTGroceries-TTGroceriesUITests.release.xcconfig"; path = "Target Support Files/Pods-TTGroceries-TTGroceriesUITests/Pods-TTGroceries-TTGroceriesUITests.release.xcconfig"; sourceTree = "<group>"; };
+		3701A8BB49793EECA09DA814 /* Pods-TTGroceries.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TTGroceries.debug.xcconfig"; path = "Target Support Files/Pods-TTGroceries/Pods-TTGroceries.debug.xcconfig"; sourceTree = "<group>"; };
+		378E6F67B18E9103A9EC74D0 /* Pods-TTGroceries-TTGroceriesUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TTGroceries-TTGroceriesUITests.debug.xcconfig"; path = "Target Support Files/Pods-TTGroceries-TTGroceriesUITests/Pods-TTGroceries-TTGroceriesUITests.debug.xcconfig"; sourceTree = "<group>"; };
+		4F11B51D4F58C930EB9CB44B /* Pods_TTGroceriesTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TTGroceriesTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		4F6E5BE0D9402701CC77D4C8 /* Pods_TTGroceries_TTGroceriesUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TTGroceries_TTGroceriesUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		52A564FAA7522BC1DD9DC6A5 /* Pods-TTGroceries.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TTGroceries.release.xcconfig"; path = "Target Support Files/Pods-TTGroceries/Pods-TTGroceries.release.xcconfig"; sourceTree = "<group>"; };
+		5D6AED890D28B31B4DEE7FD1 /* Pods_TTGroceries.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TTGroceries.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		68BBA28AF174FB7F09F92AA4 /* Pods-TTGroceriesTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TTGroceriesTests.debug.xcconfig"; path = "Target Support Files/Pods-TTGroceriesTests/Pods-TTGroceriesTests.debug.xcconfig"; sourceTree = "<group>"; };
 		C9700842282D63DF001B3289 /* TTGroceries.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TTGroceries.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C9700845282D63DF001B3289 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C9700847282D63DF001B3289 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -51,6 +62,7 @@
 		C9700865282D63E0001B3289 /* TTGroceriesUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TTGroceriesUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C9700869282D63E0001B3289 /* TTGroceriesUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TTGroceriesUITests.swift; sourceTree = "<group>"; };
 		C970086B282D63E0001B3289 /* TTGroceriesUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TTGroceriesUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		D3FEFFC9B206497B21E28BF7 /* Pods-TTGroceriesTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TTGroceriesTests.release.xcconfig"; path = "Target Support Files/Pods-TTGroceriesTests/Pods-TTGroceriesTests.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +70,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B404273D6A020F473375DD7D /* Pods_TTGroceries.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -65,6 +78,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				259FE217D885DEE703A5D532 /* Pods_TTGroceriesTests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -72,12 +86,37 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A513C1F2EF0659F43BF4F555 /* Pods_TTGroceries_TTGroceriesUITests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		1F8F7215338032E37D5B27A4 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				3701A8BB49793EECA09DA814 /* Pods-TTGroceries.debug.xcconfig */,
+				52A564FAA7522BC1DD9DC6A5 /* Pods-TTGroceries.release.xcconfig */,
+				378E6F67B18E9103A9EC74D0 /* Pods-TTGroceries-TTGroceriesUITests.debug.xcconfig */,
+				34E31DB99A0A7F4A7D1864ED /* Pods-TTGroceries-TTGroceriesUITests.release.xcconfig */,
+				68BBA28AF174FB7F09F92AA4 /* Pods-TTGroceriesTests.debug.xcconfig */,
+				D3FEFFC9B206497B21E28BF7 /* Pods-TTGroceriesTests.release.xcconfig */,
+			);
+			name = Pods;
+			path = Pods;
+			sourceTree = "<group>";
+		};
+		C582BF086162EDAA7F00C6AE /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				5D6AED890D28B31B4DEE7FD1 /* Pods_TTGroceries.framework */,
+				4F6E5BE0D9402701CC77D4C8 /* Pods_TTGroceries_TTGroceriesUITests.framework */,
+				4F11B51D4F58C930EB9CB44B /* Pods_TTGroceriesTests.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		C9700839282D63DF001B3289 = {
 			isa = PBXGroup;
 			children = (
@@ -85,6 +124,8 @@
 				C970085E282D63E0001B3289 /* TTGroceriesTests */,
 				C9700868282D63E0001B3289 /* TTGroceriesUITests */,
 				C9700843282D63DF001B3289 /* Products */,
+				1F8F7215338032E37D5B27A4 /* Pods */,
+				C582BF086162EDAA7F00C6AE /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -137,9 +178,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = C970086F282D63E0001B3289 /* Build configuration list for PBXNativeTarget "TTGroceries" */;
 			buildPhases = (
+				7F8CD43F756FFC461225CB6D /* [CP] Check Pods Manifest.lock */,
 				C970083E282D63DF001B3289 /* Sources */,
 				C970083F282D63DF001B3289 /* Frameworks */,
 				C9700840282D63DF001B3289 /* Resources */,
+				0DA1FDA426F7C273D1C7F0F1 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -154,6 +197,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = C9700872282D63E0001B3289 /* Build configuration list for PBXNativeTarget "TTGroceriesTests" */;
 			buildPhases = (
+				28B9CFD92AF8EEC00A54F646 /* [CP] Check Pods Manifest.lock */,
 				C9700857282D63E0001B3289 /* Sources */,
 				C9700858282D63E0001B3289 /* Frameworks */,
 				C9700859282D63E0001B3289 /* Resources */,
@@ -172,9 +216,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = C9700875282D63E0001B3289 /* Build configuration list for PBXNativeTarget "TTGroceriesUITests" */;
 			buildPhases = (
+				8BB9161F2E091C23A87EEC64 /* [CP] Check Pods Manifest.lock */,
 				C9700861282D63E0001B3289 /* Sources */,
 				C9700862282D63E0001B3289 /* Frameworks */,
 				C9700863282D63E0001B3289 /* Resources */,
+				726CA21F40CA117A0D200E7F /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -255,6 +301,109 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		0DA1FDA426F7C273D1C7F0F1 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-TTGroceries/Pods-TTGroceries-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-TTGroceries/Pods-TTGroceries-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-TTGroceries/Pods-TTGroceries-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		28B9CFD92AF8EEC00A54F646 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-TTGroceriesTests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		726CA21F40CA117A0D200E7F /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-TTGroceries-TTGroceriesUITests/Pods-TTGroceries-TTGroceriesUITests-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-TTGroceries-TTGroceriesUITests/Pods-TTGroceries-TTGroceriesUITests-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-TTGroceries-TTGroceriesUITests/Pods-TTGroceries-TTGroceriesUITests-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		7F8CD43F756FFC461225CB6D /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-TTGroceries-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		8BB9161F2E091C23A87EEC64 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-TTGroceries-TTGroceriesUITests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		C970083E282D63DF001B3289 /* Sources */ = {
@@ -438,6 +587,7 @@
 		};
 		C9700870282D63E0001B3289 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 3701A8BB49793EECA09DA814 /* Pods-TTGroceries.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -466,6 +616,7 @@
 		};
 		C9700871282D63E0001B3289 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 52A564FAA7522BC1DD9DC6A5 /* Pods-TTGroceries.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -494,6 +645,7 @@
 		};
 		C9700873282D63E0001B3289 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 68BBA28AF174FB7F09F92AA4 /* Pods-TTGroceriesTests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -519,6 +671,7 @@
 		};
 		C9700874282D63E0001B3289 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = D3FEFFC9B206497B21E28BF7 /* Pods-TTGroceriesTests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -544,6 +697,7 @@
 		};
 		C9700876282D63E0001B3289 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 378E6F67B18E9103A9EC74D0 /* Pods-TTGroceries-TTGroceriesUITests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
@@ -567,6 +721,7 @@
 		};
 		C9700877282D63E0001B3289 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 34E31DB99A0A7F4A7D1864ED /* Pods-TTGroceries-TTGroceriesUITests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;

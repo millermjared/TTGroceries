@@ -1,0 +1,53 @@
+PODS:
+  - RxCocoa (6.5.0):
+    - RxRelay (= 6.5.0)
+    - RxSwift (= 6.5.0)
+  - RxGesture (4.0.4):
+    - RxCocoa (~> 6.0)
+    - RxSwift (~> 6.0)
+  - RxRelay (6.5.0):
+    - RxSwift (= 6.5.0)
+  - RxSwift (6.5.0)
+  - SnapKit (5.0.1)
+  - SwiftFormat/CLI (0.49.7)
+  - SwiftLint (0.47.0)
+  - ThumbprintTokens (12.1.1)
+  - TTCalendarPicker (0.1.7):
+    - SnapKit
+
+DEPENDENCIES:
+  - RxCocoa
+  - RxGesture
+  - RxSwift
+  - SnapKit (~> 5.0)
+  - SwiftFormat/CLI
+  - SwiftLint
+  - ThumbprintTokens (~> 12.1.0)
+  - TTCalendarPicker
+
+SPEC REPOS:
+  trunk:
+    - RxCocoa
+    - RxGesture
+    - RxRelay
+    - RxSwift
+    - SnapKit
+    - SwiftFormat
+    - SwiftLint
+    - ThumbprintTokens
+    - TTCalendarPicker
+
+SPEC CHECKSUMS:
+  RxCocoa: 94f817b71c07517321eb4f9ad299112ca8af743b
+  RxGesture: f3efb47ed2d26a8082f7b660d4a59970e275a7f8
+  RxRelay: 1de1523e604c72b6c68feadedd1af3b1b4d0ecbd
+  RxSwift: 5710a9e6b17f3c3d6e40d6e559b9fa1e813b2ef8
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+  SwiftFormat: b70e3c776a74c67ce8bd140425a8c86d4a843759
+  SwiftLint: d41cc46a2ae58ac6d9f26954bc89f1d72e71fdef
+  ThumbprintTokens: cfb6b1a3bff5079010ea9b875f558d0016579209
+  TTCalendarPicker: 41a4cecbc0be87bcc2aff2740c6cb835a1c26a90
+
+PODFILE CHECKSUM: 42ca667c1d06826c104ec01e92eaa02b20438a7a
+
+COCOAPODS: 1.11.3
