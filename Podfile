@@ -14,6 +14,7 @@ target 'TTGroceries' do
   pod 'RxCocoa'
   pod 'RxGesture'
   pod 'RxSwift'
+  pod "Thumbprint"
 
   target 'TTGroceriesTests' do
     inherit! :search_paths

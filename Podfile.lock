@@ -11,6 +11,10 @@ PODS:
   - SnapKit (5.0.1)
   - SwiftFormat/CLI (0.49.7)
   - SwiftLint (0.47.0)
+  - Thumbprint (2.0.9):
+    - SnapKit (~> 5.0)
+    - ThumbprintTokens (~> 12.1.0)
+    - TTCalendarPicker
   - ThumbprintTokens (12.1.1)
   - TTCalendarPicker (0.1.7):
     - SnapKit
@@ -22,6 +26,7 @@ DEPENDENCIES:
   - SnapKit (~> 5.0)
   - SwiftFormat/CLI
   - SwiftLint
+  - Thumbprint
   - ThumbprintTokens (~> 12.1.0)
   - TTCalendarPicker
 
@@ -34,6 +39,7 @@ SPEC REPOS:
     - SnapKit
     - SwiftFormat
     - SwiftLint
+    - Thumbprint
     - ThumbprintTokens
     - TTCalendarPicker
 
@@ -45,9 +51,10 @@ SPEC CHECKSUMS:
   SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
   SwiftFormat: b70e3c776a74c67ce8bd140425a8c86d4a843759
   SwiftLint: d41cc46a2ae58ac6d9f26954bc89f1d72e71fdef
+  Thumbprint: 58f833cca81c0b3c9339127dd366ff3d3f9c93af
   ThumbprintTokens: cfb6b1a3bff5079010ea9b875f558d0016579209
   TTCalendarPicker: 41a4cecbc0be87bcc2aff2740c6cb835a1c26a90
 
-PODFILE CHECKSUM: 42ca667c1d06826c104ec01e92eaa02b20438a7a
+PODFILE CHECKSUM: fe1ef7e9e449d50b60d958bcda30ed97d5b6703e
 
 COCOAPODS: 1.11.3

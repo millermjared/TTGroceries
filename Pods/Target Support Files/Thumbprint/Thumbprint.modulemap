@@ -1,0 +1,6 @@
+framework module Thumbprint {
+  umbrella header "Thumbprint-umbrella.h"
+
+  export *
+  module * { export * }
+}
